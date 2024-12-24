@@ -8,8 +8,3 @@
 - DOMAIN,www.alipanba.com
 - DOMAIN,budangshe.com
 - DOMAIN,www.hifini.com
-- GEOSITE,bing@cn
-- GEOSITE,category-games@CN
-# 兜底路由
-- GEOSITE,CN
-- GEOIP,CN
