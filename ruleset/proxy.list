@@ -1,0 +1,4 @@
+- DOMAIN,cv.9563067.xyz,手动选择兜底国家
+- GEOSITE,openai,GPT-节点组
+# 兜底路由
+- MATCH,手动选择兜底国家
