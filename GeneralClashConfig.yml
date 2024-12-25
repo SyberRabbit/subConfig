@@ -1,3 +1,4 @@
+mode: rule
 dns:
   use-system-hosts: false
   enable: true
