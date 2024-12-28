@@ -4,6 +4,7 @@ dns:
   enable: true
   fake-ip-filter:
     - "+.9563067.xyz"
+    - "fz.xxzi.top"
   nameserver:
     - https://1.1.1.1/dns-query
     - https://8.8.8.8/dns-query
