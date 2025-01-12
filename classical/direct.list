@@ -5,3 +5,4 @@ DOMAIN,www.shandian666.com
 DOMAIN,www.alipanba.com
 DOMAIN,budangshe.com
 DOMAIN,www.hifini.com
+DOMAIN-REGEX,^dl.*mypikpak\.com$
