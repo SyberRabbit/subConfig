@@ -4,8 +4,3 @@
 # 确保 YAML 和 YML 文件被检测
 *.yaml linguist-detectable=true
 *.yml linguist-detectable=true
-
-# 忽略其他无关文件
-*.png linguist-vendored
-*.jpg linguist-vendored
-*.min.js linguist-generated
