@@ -4,16 +4,14 @@ unified-delay: true
 dns:
   enable: true
   ipv6: false
-  default-nameserver:
-    - system
-    #- https://223.5.5.5/dns-query
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - "+.9563067.xyz"
+  default-nameserver:
+    - system
   nameserver:
-    - https://1.1.1.1/dns-query
-    - https://8.8.8.8/dns-query
+    - 'tls://dns.google#手动选择兜底国家'
   nameserver-policy:
     "geosite:steam,cn":
       - system
